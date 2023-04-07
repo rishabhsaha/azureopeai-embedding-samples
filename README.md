@@ -1,0 +1,1 @@
+# azureopeai-embedding-samples
